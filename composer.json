@@ -8,7 +8,7 @@
 		    "PHPKit\\":"src/"
 		}
 	},
-	"authors":{{"name":"mawenpei","email":"249350293@qq.com"}},
+	"authors":[{"name":"mawenpei","email":"249350293@qq.com"}],
 	"require":{
 	    "php":">=5.5.*",
 		"ext-swoole":">=1.7.17"
